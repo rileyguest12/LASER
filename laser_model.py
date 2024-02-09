@@ -5,7 +5,7 @@ import matplotlib.animation as animation
 import numpy as np
 import scipy
 from scipy.integrate import odeint
-
+# git test
 plt.style.use('ggplot')
 
 Trad = 1
